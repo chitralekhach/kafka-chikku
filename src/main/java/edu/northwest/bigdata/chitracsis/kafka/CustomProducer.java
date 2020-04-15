@@ -1,4 +1,4 @@
-package edu.northwest.bigdata.chitra_csis.kafka;
+package edu.northwest.bigdata.chitracsis.kafka;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;
